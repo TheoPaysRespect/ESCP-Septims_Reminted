@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>ESCP - Septims Re-Minted</name>
-	<packageId>SirMashedPotato.ESCP.SeptimsReminted</packageId>
+	<packageId>ESCP.ESCP.SeptimsReminted</packageId>
 	<author>SirMashedPotato, Rick</author>
 	<modVersion>1.0.0</modVersion>
 	<description>A remade version of the original ESCP Septims mod, made with compatibility in mind.\n\nAdds in a new currency, and gives it to all factions, without overwriting the vanilla silver def.\n\n- Supports Vanilla Achievements Expanded\n- Requires Harmony\n- Original assembly by Taranchuk\n- Original mod by Ranger Rick.\n- Based on the ‘Elder Scrolls’ series by Bethesda Game Studios</description>
